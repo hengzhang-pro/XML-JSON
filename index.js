@@ -10,7 +10,6 @@ program.showSuggestionAfterError(true);
 program.parse();
 
 const args = program.opts();
-console.log(args);
 let toBeConvertedFilePath = args.fileToConvert;
 
 if (!args.hasOwnProperty("fileToConvert")) {
