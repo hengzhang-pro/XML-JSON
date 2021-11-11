@@ -1,0 +1,109 @@
+{
+   "blogs": {
+      "blog": [
+         {
+            "id": {
+               "_text": "123"
+            },
+            "langcode": {
+               "_text": "fi"
+            },
+            "title": {
+               "_text": "Hyvää joulua"
+            },
+            "status": {
+               "_text": "1"
+            },
+            "created": {
+               "_text": "1467892678"
+            },
+            "changed": {
+               "_text": "1476166266"
+            },
+            "image_uri": {
+               "_text": "https://example.come/joulua.jpg"
+            },
+            "image_alt": {
+               "_text": "hyvää joulua"
+            },
+            "image_title": {
+               "_text": "hyvää joulua"
+            },
+            "image_width": {
+               "_text": "872"
+            },
+            "image_height": {
+               "_text": "350"
+            },
+            "url": {
+               "_text": "https://evl.fi/kirkossa/pyhapaivat/joulunpyhat"
+            },
+            "categories": {
+               "category": [
+                  {
+                     "name": {
+                        "_text": "New"
+                     }
+                  },
+                  {
+                     "name": {
+                        "_text": "joulua"
+                     }
+                  }
+               ]
+            },
+            "content": {
+               "_text": "<h1>Joulu – Jeesuksen syntymäpäivä</h1> <p>Joulua vietetään Jeesuksen syntymän muistoksi.&nbsp;Jeesus syntyi ihmiseksi ihmisten&nbsp;keskelle.&nbsp;Keskelle&nbsp;vuoden pimeintä aikaa tulee&nbsp;juhla, jossa pimeyteen syttyvä valo sytyttää toivon.&nbsp;</p> <p>Jeesuksessa Jumala tulee maailmaan ihmiseksi ihmisten keskelle. Hän kokee kaiken, mitä ihmiselämä käsittää; iloa, surua, naurua, kipua ja kuolemaa. Hyvä Jumala ei tyydy katsomaan ihmiselämää korkeuksista vaan tulee ihmisten luokse ihmisen muodossa.</p> <p><a href=\"https://www.youtube.com/watch?v=AlUDUGQ8yz8&amp;feature=youtu.be\" target=\"_blank\" title=\"Linkki ulkopuoliseen sivustoon\">Katso jouluevankeliumivideo</a></p> <h2>Joulun juhlapäivät</h2> <p>Joulun pyhät ovat suomalaisten&nbsp;suosituimpia kirkkopyhiä.</p> <p><a href=\"/kirkossa/pyhapaivat/joulunpyhat/jouluaatto\">Jouluaattona</a><strong>&nbsp;</strong>24.12.&nbsp;ollaan odotuksen täyttymisen ja profeettojen lupausten toteutumisen ovella. Jouluaaton jumalanpalveluksen aihe on pelastuksen kaipuu ja lupaus Vapahtajasta. Siksi jouluaaton jumalanpalveluksissa luetaan muiden tekstien lisäksi aina jouluun liittyviä profetioita eli ennustuksia.</p> <p>Jouluyö&nbsp;on Kristuksen syntymisen yö. Seurakunta kuulee enkelin viestin: \"Tänään on teille syntynyt Vapahtaja.\" Jouluyön messu eli enkelten messu on monessa kristillisessä kirkossa joulunvieton päätapahtuma.</p> <p>Jouluaamun 25.12.&nbsp;<strong>&nbsp;</strong>jumalanpalveluksessa &nbsp;eli paimenten messussa seurataan paimenten matkaa Betlehemiin katsomaan syntynyttä Jeesus-lasta.</p> <p><a href=\"/kirkossa/pyhapaivat/joulunpyhat/joulupaiva\">Joulupäivän</a><strong>&nbsp;</strong>jumalanpalveluksessa&nbsp;eli kansan messussa seurakunta kiittää Jumalaa siitä, että hän on antanut Poikansa tulla ihmiseksi.</p> <p><a href=\"/kirkossa/pyhapaivat/joulunpyhat/tapaninpaiva\">Tapaninpäivä </a>eli toinen joulupäivä&nbsp;26.12. on ensimmäisen marttyyrin, Stefanoksen ja hänen myötään kaikkien marttyyrien muistopäivä.</p> <p>Kolmas joulupäivä&nbsp;27.12. on evankeliumin kirjoittajan Johanneksen päivä.&nbsp;</p>"
+            }
+         },
+         {
+            "id": {
+               "_text": "125"
+            },
+            "langcode": {
+               "_text": "fi"
+            },
+            "title": {
+               "_text": "Hyvää uutta vuotta"
+            },
+            "status": {
+               "_text": "1"
+            },
+            "created": {
+               "_text": "1467892699"
+            },
+            "changed": {
+               "_text": "1476166288"
+            },
+            "image_uri": {
+               "_text": "https://example.come/new-year.jpg"
+            },
+            "image_alt": {
+               "_text": "hyvää uutta vuotta"
+            },
+            "image_title": {
+               "_text": "hyvää uutta vuotta"
+            },
+            "image_width": {
+               "_text": "960"
+            },
+            "image_height": {
+               "_text": "360"
+            },
+            "url": {
+               "_text": "https://en.wiktionary.org/wiki/hyv%C3%A4%C3%A4_uutta_vuotta"
+            },
+            "categories": {
+               "category": {
+                  "name": {
+                     "_text": "New"
+                  }
+               }
+            },
+            "content": {
+               "_text": "<div class=\"mw-parser-output\"><h2><span class=\"mw-headline\" id=\"Finnish\">Finnish</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=hyv%C3%A4%C3%A4_uutta_vuotta&amp;action=edit&amp;section=1\" title=\"Edit section: Finnish\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2> <div class=\"NavFrame\" style=\"background-color:#FFB90F;\"> <div class=\"NavHead\" style=\"background: rgb(255, 255, 191); cursor: pointer;\"><span class=\"NavToggle\"><a role=\"button\" tabindex=\"0\">show ▼</a></span>Finnish phrasebook</div> <div class=\"NavContent\" style=\"display: none;\"> <table style=\"background-color:#FFFFbf; width:100%; margin: auto; text-align:center\"> <tbody><tr> <td style=\"text-align:left;\"><a href=\"/wiki/File:Open_book_01.svg\" class=\"image\"><img alt=\"Open book 01.svg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Open_book_01.svg/40px-Open_book_01.svg.png\" decoding=\"async\" width=\"40\" height=\"40\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Open_book_01.svg/60px-Open_book_01.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Open_book_01.svg/80px-Open_book_01.svg.png 2x\" data-file-width=\"360\" data-file-height=\"360\"></a> </td> <td>This entry is part of the <a href=\"/wiki/Wiktionary:Phrasebook\" title=\"Wiktionary:Phrasebook\">phrasebook</a> project, which presents <a href=\"/wiki/Wiktionary:Criteria_for_inclusion\" title=\"Wiktionary:Criteria for inclusion\">criteria for inclusion</a> based on utility, simplicity and commonality. </td></tr></tbody></table></div></div> <h3><span class=\"mw-headline\" id=\"Phrase\">Phrase</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=hyv%C3%A4%C3%A4_uutta_vuotta&amp;action=edit&amp;section=2\" title=\"Edit section: Phrase\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3> <p><strong class=\"Latn headword\" lang=\"fi\"><a href=\"/wiki/hyv%C3%A4%C3%A4#Finnish\" title=\"hyvää\">hyvää</a> <a href=\"/wiki/uutta#Finnish\" title=\"uutta\">uutta</a> <a href=\"/wiki/vuotta#Finnish\" title=\"vuotta\">vuotta</a></strong> </p> <ol><li><a href=\"/wiki/Happy_New_Year\" class=\"mw-redirect\" title=\"Happy New Year\">Happy New Year</a></li></ol> <h4><span class=\"mw-headline\" id=\"Usage_notes\">Usage notes</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=hyv%C3%A4%C3%A4_uutta_vuotta&amp;action=edit&amp;section=3\" title=\"Edit section: Usage notes\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h4> <p>Often, each word is capitalized even though being against official orthography rules. </p>"
+            }
+         }
+      ]
+   }
+}

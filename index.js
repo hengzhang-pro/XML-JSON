@@ -47,6 +47,7 @@ mainProcess()
         );
     })
     .catch((error) => {
+        console.error(error);
         //Write error into log file
         let errorLogFilePath = helper.getLogFilePath(helper.logDir, "error");
         fs.appendFileSync(
