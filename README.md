@@ -21,14 +21,14 @@ There are two ways to convert your XML files:
 
 Give the XML path as argument 
 ```sh
-$ index.js path/to/file.xml
+$ node index --file-to-convert=path/to/file.xml
 ```
 
 You can run the application without giving XML file path, but you need to put the XML file under "convert" directory.
 Application will automatically fetch XML file from there. 
 
 ```sh
-$ index.js
+$ node index
 ```
 
 ## Features
