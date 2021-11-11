@@ -37,5 +37,6 @@ This application will automatically decode your encoded HTML string
 ## Log
 Succss and Exception will be stored in log file under "log"
 
-###Futher plan 
-Add function support multiple XML file batch conversion
+## Futher plan 
+1. Add function support multiple XML file batch conversion
+2. Support more type of file, eg. csv
