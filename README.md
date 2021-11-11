@@ -1,5 +1,5 @@
 # XML-JSON-Generator
-This is a Node JS APP, handling for converting XML format date to JSON type data structure. 
+This is a Node JS APP, handling for converting XML format data to JSON type data structure. 
 
 ## How to start
 
