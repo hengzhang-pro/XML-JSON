@@ -1,0 +1,20 @@
+{
+  "name": "xml-json-generator",
+  "version": "0.0.1",
+  "description": "Convert XML file data to JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hengzhang-pro/xml-json-generator.git"
+  },
+  "dependencies": {
+    "commander": "^8.3.0",
+    "dotenv": "^10.0.0",
+    "html-entities": "^2.3.2",
+    "turndown": "^7.1.1",
+    "xml-js": "^1.6.11"
+  }
+}

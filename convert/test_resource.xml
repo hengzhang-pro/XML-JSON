@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<blogs>
+    <blog>
+        <id>123</id>
+        <langcode>fi</langcode>
+        <title>Hyvää joulua</title>
+        <status>1</status>
+        <created>1467892678</created>
+        <changed>1476166266</changed>
+        <image_uri>https://example.come/joulua.jpg</image_uri>
+        <image_alt>hyvää joulua</image_alt>
+        <image_title>hyvää joulua</image_title>
+        <image_width>872</image_width>
+        <image_height>350</image_height>
+        <url>https://evl.fi/kirkossa/pyhapaivat/joulunpyhat</url>
+        <categories>
+            <category>
+                <name>New</name>
+            </category>
+            <category>
+                <name>joulua</name>
+            </category>
+        </categories>
+        <content>&lt;h1&gt;Joulu &ndash; Jeesuksen syntym&auml;p&auml;iv&auml;&lt;/h1&gt; &lt;p&gt;Joulua vietet&auml;&auml;n Jeesuksen syntym&auml;n muistoksi.&amp;nbsp;Jeesus syntyi ihmiseksi ihmisten&amp;nbsp;keskelle.&amp;nbsp;Keskelle&amp;nbsp;vuoden pimeint&auml; aikaa tulee&amp;nbsp;juhla, jossa pimeyteen syttyv&auml; valo sytytt&auml;&auml; toivon.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Jeesuksessa Jumala tulee maailmaan ihmiseksi ihmisten keskelle. H&auml;n kokee kaiken, mit&auml; ihmisel&auml;m&auml; k&auml;sitt&auml;&auml;; iloa, surua, naurua, kipua ja kuolemaa. Hyv&auml; Jumala ei tyydy katsomaan ihmisel&auml;m&auml;&auml; korkeuksista vaan tulee ihmisten luokse ihmisen muodossa.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=AlUDUGQ8yz8&amp;amp;feature=youtu.be&quot; target=&quot;_blank&quot; title=&quot;Linkki ulkopuoliseen sivustoon&quot;&gt;Katso jouluevankeliumivideo&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;Joulun juhlap&auml;iv&auml;t&lt;/h2&gt; &lt;p&gt;Joulun pyh&auml;t ovat suomalaisten&amp;nbsp;suosituimpia kirkkopyhi&auml;.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;/kirkossa/pyhapaivat/joulunpyhat/jouluaatto&quot;&gt;Jouluaattona&lt;/a&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;24.12.&amp;nbsp;ollaan odotuksen t&auml;yttymisen ja profeettojen lupausten toteutumisen ovella. Jouluaaton jumalanpalveluksen aihe on pelastuksen kaipuu ja lupaus Vapahtajasta. Siksi jouluaaton jumalanpalveluksissa luetaan muiden tekstien lis&auml;ksi aina jouluun liittyvi&auml; profetioita eli ennustuksia.&lt;/p&gt; &lt;p&gt;Jouluy&ouml;&amp;nbsp;on Kristuksen syntymisen y&ouml;. Seurakunta kuulee enkelin viestin: &quot;T&auml;n&auml;&auml;n on teille syntynyt Vapahtaja.&quot; Jouluy&ouml;n messu eli enkelten messu on monessa kristillisess&auml; kirkossa joulunvieton p&auml;&auml;tapahtuma.&lt;/p&gt; &lt;p&gt;Jouluaamun 25.12.&amp;nbsp;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;jumalanpalveluksessa &amp;nbsp;eli paimenten messussa seurataan paimenten matkaa Betlehemiin katsomaan syntynytt&auml; Jeesus-lasta.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;/kirkossa/pyhapaivat/joulunpyhat/joulupaiva&quot;&gt;Joulup&auml;iv&auml;n&lt;/a&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;jumalanpalveluksessa&amp;nbsp;eli kansan messussa seurakunta kiitt&auml;&auml; Jumalaa siit&auml;, ett&auml; h&auml;n on antanut Poikansa tulla ihmiseksi.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;/kirkossa/pyhapaivat/joulunpyhat/tapaninpaiva&quot;&gt;Tapaninp&auml;iv&auml; &lt;/a&gt;eli toinen joulup&auml;iv&auml;&amp;nbsp;26.12. on ensimm&auml;isen marttyyrin, Stefanoksen ja h&auml;nen my&ouml;t&auml;&auml;n kaikkien marttyyrien muistop&auml;iv&auml;.&lt;/p&gt; &lt;p&gt;Kolmas joulup&auml;iv&auml;&amp;nbsp;27.12. on evankeliumin kirjoittajan Johanneksen p&auml;iv&auml;.&amp;nbsp;&lt;/p&gt;</content>
+    </blog>
+    <blog>
+        <id>125</id>
+        <langcode>fi</langcode>
+        <title>Hyvää uutta vuotta</title>
+        <status>1</status>
+        <created>1467892699</created>
+        <changed>1476166288</changed>
+        <image_uri>https://example.come/new-year.jpg</image_uri>
+        <image_alt>hyvää uutta vuotta</image_alt>
+        <image_title>hyvää uutta vuotta</image_title>
+        <image_width>960</image_width>
+        <image_height>360</image_height>
+        <url>https://en.wiktionary.org/wiki/hyv%C3%A4%C3%A4_uutta_vuotta</url>
+        <categories>
+            <category>
+                <name>New</name>
+            </category>
+        </categories>
+        <content>&lt;div class=&quot;mw-parser-output&quot;&gt;&lt;h2&gt;&lt;span class=&quot;mw-headline&quot; id=&quot;Finnish&quot;&gt;Finnish&lt;/span&gt;&lt;span class=&quot;mw-editsection&quot;&gt;&lt;span class=&quot;mw-editsection-bracket&quot;&gt;[&lt;/span&gt;&lt;a href=&quot;/w/index.php?title=hyv%C3%A4%C3%A4_uutta_vuotta&amp;amp;action=edit&amp;amp;section=1&quot; title=&quot;Edit section: Finnish&quot;&gt;edit&lt;/a&gt;&lt;span class=&quot;mw-editsection-bracket&quot;&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt; &lt;div class=&quot;NavFrame&quot; style=&quot;background-color:#FFB90F;&quot;&gt; &lt;div class=&quot;NavHead&quot; style=&quot;background: rgb(255, 255, 191); cursor: pointer;&quot;&gt;&lt;span class=&quot;NavToggle&quot;&gt;&lt;a role=&quot;button&quot; tabindex=&quot;0&quot;&gt;show ▼&lt;/a&gt;&lt;/span&gt;Finnish phrasebook&lt;/div&gt; &lt;div class=&quot;NavContent&quot; style=&quot;display: none;&quot;&gt; &lt;table style=&quot;background-color:#FFFFbf; width:100%; margin: auto; text-align:center&quot;&gt; &lt;tbody&gt;&lt;tr&gt; &lt;td style=&quot;text-align:left;&quot;&gt;&lt;a href=&quot;/wiki/File:Open_book_01.svg&quot; class=&quot;image&quot;&gt;&lt;img alt=&quot;Open book 01.svg&quot; src=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Open_book_01.svg/40px-Open_book_01.svg.png&quot; decoding=&quot;async&quot; width=&quot;40&quot; height=&quot;40&quot; srcset=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Open_book_01.svg/60px-Open_book_01.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Open_book_01.svg/80px-Open_book_01.svg.png 2x&quot; data-file-width=&quot;360&quot; data-file-height=&quot;360&quot;&gt;&lt;/a&gt; &lt;/td&gt; &lt;td&gt;This entry is part of the &lt;a href=&quot;/wiki/Wiktionary:Phrasebook&quot; title=&quot;Wiktionary:Phrasebook&quot;&gt;phrasebook&lt;/a&gt; project, which presents &lt;a href=&quot;/wiki/Wiktionary:Criteria_for_inclusion&quot; title=&quot;Wiktionary:Criteria for inclusion&quot;&gt;criteria for inclusion&lt;/a&gt; based on utility, simplicity and commonality. &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt; &lt;h3&gt;&lt;span class=&quot;mw-headline&quot; id=&quot;Phrase&quot;&gt;Phrase&lt;/span&gt;&lt;span class=&quot;mw-editsection&quot;&gt;&lt;span class=&quot;mw-editsection-bracket&quot;&gt;[&lt;/span&gt;&lt;a href=&quot;/w/index.php?title=hyv%C3%A4%C3%A4_uutta_vuotta&amp;amp;action=edit&amp;amp;section=2&quot; title=&quot;Edit section: Phrase&quot;&gt;edit&lt;/a&gt;&lt;span class=&quot;mw-editsection-bracket&quot;&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong class=&quot;Latn headword&quot; lang=&quot;fi&quot;&gt;&lt;a href=&quot;/wiki/hyv%C3%A4%C3%A4#Finnish&quot; title=&quot;hyv&auml;&auml;&quot;&gt;hyv&auml;&auml;&lt;/a&gt; &lt;a href=&quot;/wiki/uutta#Finnish&quot; title=&quot;uutta&quot;&gt;uutta&lt;/a&gt; &lt;a href=&quot;/wiki/vuotta#Finnish&quot; title=&quot;vuotta&quot;&gt;vuotta&lt;/a&gt;&lt;/strong&gt; &lt;/p&gt; &lt;ol&gt;&lt;li&gt;&lt;a href=&quot;/wiki/Happy_New_Year&quot; class=&quot;mw-redirect&quot; title=&quot;Happy New Year&quot;&gt;Happy New Year&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt; &lt;h4&gt;&lt;span class=&quot;mw-headline&quot; id=&quot;Usage_notes&quot;&gt;Usage notes&lt;/span&gt;&lt;span class=&quot;mw-editsection&quot;&gt;&lt;span class=&quot;mw-editsection-bracket&quot;&gt;[&lt;/span&gt;&lt;a href=&quot;/w/index.php?title=hyv%C3%A4%C3%A4_uutta_vuotta&amp;amp;action=edit&amp;amp;section=3&quot; title=&quot;Edit section: Usage notes&quot;&gt;edit&lt;/a&gt;&lt;span class=&quot;mw-editsection-bracket&quot;&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h4&gt; &lt;p&gt;Often, each word is capitalized even though being against official orthography rules. &lt;/p&gt;</content>
+    </blog>
+</blogs>
